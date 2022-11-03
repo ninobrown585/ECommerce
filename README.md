@@ -3,5 +3,6 @@
 E-Commerce backend using CRUD
 
 # Live Preview of The App
- ![Uploading Untitled_ Nov 2, 2022 10_59 PM.gif…]()
+
+Check out my  for a complete walkthrough of this app ![video tutorial](asset\Commerce.gif)
 
